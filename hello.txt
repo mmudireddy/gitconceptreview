@@ -1,3 +1,6 @@
 hello, welcome
 
+added few more lines from my_branchOne
 added text from my branchTwo to create conflict
+
+resolved conflict
